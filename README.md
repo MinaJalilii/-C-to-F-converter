@@ -1,7 +1,7 @@
 # Temperature Converter
 
 This is a simple temperature converter web application that allows users to convert temperatures between Celsius (°C) and Fahrenheit (°F).
-
+Live Preview -> [https://minajalilii.github.io/Temperature-converter/](https://minajalilii.github.io/Temperature-converter/)
 ## Description
 
 This application provides a user-friendly interface for converting temperatures. Users can input a temperature value in either Celsius or Fahrenheit, and the application will instantly display the converted temperature. Additionally, users can easily switch between Celsius and Fahrenheit modes.
